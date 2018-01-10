@@ -1,0 +1,19 @@
+{
+  "name": "paxjs",
+  "version": "0.0.1",
+  "description": "This package includes the global command for PaxJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paxjs-team/paxjs.git"
+  },
+  "author": "Serhii Palash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paxjs-team/paxjs/issues"
+  },
+  "homepage": "https://github.com/paxjs-team/paxjs#readme"
+}
